@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<head>
+  <style>
+    h1 {color: blue;}
+  </style>
+</head>
+<h1>Semih Baykir</h1>
