@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I like cats**
 
-- 🖥️ My code **github.com/sbaykir10/code**
+- 🖥️ <a href="https://github.com/sbaykir10/code">My code
 
 <p align="left">
 </p>
