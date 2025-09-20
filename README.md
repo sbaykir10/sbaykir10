@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Semih</h1>
-<h3 align="center">An ambitious high school student from New Jersey</h3>
+<h3 align="center">A high school student from New Jersey</h3>
 
 - 🔭 I’m currently working on **improving my codeforces rating**
 
